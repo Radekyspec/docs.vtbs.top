@@ -20,7 +20,7 @@
 
 ### 确定社团旗下VTB达标
 
-社团旗下至少需要2名VTB符合[“VTB收录标准”](http://localhost:8000/basic/add-personal/)提到的情况，且至少2名VTB在个人介绍中确认了社团归属。
+社团旗下至少需要2名VTB符合[“VTB收录标准”](https://docs.vtbs.top/basic/add-personal/)提到的情况，且至少2名VTB在个人介绍中确认了社团归属。
 
 ---
 

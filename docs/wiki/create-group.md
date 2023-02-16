@@ -50,7 +50,7 @@
 
 ## 添加所属VTB
 
-* 查阅[查重](http://localhost:8000/wiki/duplicate/)→[创建并提交vtb](http://localhost:8000/wiki/create/)部分（`创建`并`保存`，但是不要`提交`），添加一名vtb，将`所属社团`改为新社团的名字
+* 查阅[查重](https://docs.vtbs.top/wiki/duplicate/)→[创建并提交vtb](https://docs.vtbs.top/wiki/create/)部分（`创建`并`保存`，但是不要`提交`），添加一名vtb，将`所属社团`改为新社团的名字
 
 * 重复上述操作，再添加一位vtb（`创建`并`保存`，但是不要`提交`）
 

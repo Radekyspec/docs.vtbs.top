@@ -5,7 +5,7 @@
 
     任何包含不符合本文档所描述的标准的请求**大概率不会通过审核**并且将会被**直接关闭**
 
-* ### [VTB收录标准](http://localhost:8000/basic/add-personal/)
-* ### [VTB删除标准](http://localhost:8000/basic/delete-personal/)
-* ### [社团收录标准](http://localhost:8000/basic/add-group/)
-* ### [社团删除标准](http://localhost:8000/basic/delete-group/)
+* ### [VTB收录标准](https://docs.vtbs.top/basic/add-personal/)
+* ### [VTB删除标准](https://docs.vtbs.top/basic/delete-personal/)
+* ### [社团收录标准](https://docs.vtbs.top/basic/add-group/)
+* ### [社团删除标准](https://docs.vtbs.top/basic/delete-group/)

@@ -17,14 +17,14 @@
 ## 页面目录
 
 * ### **(必读) 如何添加新的VTB**
-    * [收录和删除标准 (可选阅读)](http://localhost:8000/wiki/standard)
-    * [准备工作](http://localhost:8000/wiki/prepare)
-    * [查重](http://localhost:8000/wiki/duplicate/)
-    * [创建并提交vtb](http://localhost:8000/wiki/create)
-    * [创建并提交社团](http://localhost:8000/wiki/create-group)
+    * [收录和删除标准 (可选阅读)](https://docs.vtbs.top/wiki/standard)
+    * [准备工作](https://docs.vtbs.top/wiki/prepare)
+    * [查重](https://docs.vtbs.top/wiki/duplicate/)
+    * [创建并提交vtb](https://docs.vtbs.top/wiki/create)
+    * [创建并提交社团](https://docs.vtbs.top/wiki/create-group)
 
 * ### **(可选阅读) 收录标准**
-    * [VTB收录标准](http://localhost:8000/basic/add-personal/)
-    * [VTB删除标准](http://localhost:8000/basic/delete-personal/)
-    * [社团收录标准](http://localhost:8000/basic/add-group/)
-    * [社团删除标准](http://localhost:8000/basic/delete-group/)
+    * [VTB收录标准](https://docs.vtbs.top/basic/add-personal/)
+    * [VTB删除标准](https://docs.vtbs.top/basic/delete-personal/)
+    * [社团收录标准](https://docs.vtbs.top/basic/add-group/)
+    * [社团删除标准](https://docs.vtbs.top/basic/delete-group/)
