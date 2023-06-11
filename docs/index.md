@@ -9,7 +9,7 @@
 这里是 [submit.vtbs.moe](https://submit.vtbs.moe) 的保姆级[^1]食用手册。
 [^1]: （应该算是）
 
-通过阅读本文档，您将知晓如何正确地向 Vtuber Database （VDB）数据库提交新的 VTB/社团 数据，这些数据将公开并用于如 [vtbs.moe](https://vtbs.moe) 等下游项目。
+通过阅读本文档，您将知晓如何正确地向 Vtuber Database （VDB）数据库提交新的 VTB/社团 数据，这些数据将公开并用于 [vtbs.moe](https://vtbs.moe) 等下游项目。
 
 ## 页面目录
 
