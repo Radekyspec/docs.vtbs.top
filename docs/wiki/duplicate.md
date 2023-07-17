@@ -4,4 +4,4 @@
 
 ![image](../assets/search.png)
 
-请在 <https://submit.vtbs.moe> 搜索而不要在 <https://vtbs.moe> 搜索。
+请在 <a href="https://submit.vtbs.moe" target="_blank">submit.vtbs.moe</a> 搜索而不要在 <a href="https://vtbs.moe" target="_blank">vtbs.moe</a> 搜索。

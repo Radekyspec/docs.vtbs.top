@@ -9,7 +9,7 @@
 
 ## 我的提交在哪里
 
-* 位于 dd-center/vdb 仓库下的 Pull requests (pr) 页面下，就是[这里](https://github.com/dd-center/vdb/pulls)。
+* 位于 dd-center/vdb 仓库下的 Pull requests (pr) 页面下，就是<a href="https://github.com/dd-center/vdb/pulls" target="_blank">这里</a>。
 
 * 请在这个页面的搜索框里输入你提交时的**标题**，一般默认是 VTB 的 **名字**。
 
@@ -25,7 +25,7 @@
 
 ## 关于审核
 
-* 所有的提交要经过人工审核后才会合并到数据库，请参考我们的[收录标准](https://docs.vtbs.top/wiki/standard/)。
+* 所有的提交要经过人工审核后才会合并到数据库，请参考我们的[收录标准](../wiki/criterion.md)。
 
 * 收录标准省流：对于 VTB，经常用虚拟形象，很少有真人形象，就可以收录了；对于社团，要求商业性质且仍在活跃运营。
 
@@ -42,7 +42,7 @@
 
 这是一些常见的原因：
 
-* 不符合我们的[收录标准](https://docs.vtbs.top/wiki/standard/)，或在观察之后仍未能确定的。
+* 不符合我们的[收录标准](../wiki/criterion.md)，或在观察之后仍未能确定的。
 
 * 您没有提供用户的账号信息。
 
