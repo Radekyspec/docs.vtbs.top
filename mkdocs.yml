@@ -57,7 +57,7 @@ theme:
 nav:
   - 首页: index.md
   - VTB添加指北:
-      - 收录与删除标准: wiki/standard.md
+      - 收录与删除标准: wiki/criterion.md
       - 准备工作: wiki/prepare.md
       - 查重: wiki/duplicate.md
       - 创建并提交vtb: wiki/create.md
@@ -65,10 +65,10 @@ nav:
   - 我的提交怎么样了？:
       - 查询我的请求状态: status/status.md
   - 收录标准:
-      - VTB收录标准: basic/add-personal.md
-      - VTB删除标准: basic/delete-personal.md
-      - 社团收录标准: basic/add-group.md
-      - 社团删除标准: basic/delete-group.md
+      - VTB收录标准: criterion/add-person.md
+      - VTB删除标准: criterion/delete-person.md
+      - 社团收录标准: criterion/add-group.md
+      - 社团删除标准: criterion/delete-group.md
 
 extra:
   social:
